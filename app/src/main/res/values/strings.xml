@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListMaker</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="description_fab">Button to add todo items</string>
+    <string name="create_todo_item_dialog_title">What is the name of your list?</string>
+    <string name="create_todo_item_dialog_button">Create</string>
+    <string name="fab_add_task">fab to add tasks to task list</string>
+    <string name="task_to_add">What is the task you want to add?</string>
+    <string name="add_task">Add</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
